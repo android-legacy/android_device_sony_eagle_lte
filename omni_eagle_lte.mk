@@ -9,7 +9,7 @@ $(call inherit-product, device/sony/eagle/full_eagle.mk)
 
 # Set those variables here to overwrite the inherited values.
 PRODUCT_NAME := omni_eagle_lte
-PRODUCT_DEVICE := eagle_ds
+PRODUCT_DEVICE := eagle_lte
 PRODUCT_BRAND := Sony
 PRODUCT_MANUFACTURER := Sony
 PRODUCT_MODEL := Xperia M2 LTE
