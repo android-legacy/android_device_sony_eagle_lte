@@ -16,6 +16,6 @@
 include device/sony/eagle/BoardConfig.mk
 
 # Kernel properties
-TARGET_KERNEL_CONFIG := eagle_ds_defconfig
+TARGET_KERNEL_CONFIG := eagle_lte_defconfig
 
 
