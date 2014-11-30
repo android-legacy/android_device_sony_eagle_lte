@@ -1,7 +1,47 @@
 [
  {
    "repository": "android_device_sony_eagle",
-   "target_path": "device/sony/eagle",
+   "target_path": "device/sony/eagle"
+ },
+ {
+   "repository": "android_kernel_sony_eagle",
+   "target_path": "kernel/sony/eagle",
    "branch": "cm-11.0"
- }
+ }, {
+   "repository": "proprietary_vendor_sony",
+   "target_path": "vendor/sony",
+   "branch": "cm-11.0"
+ },
+ {
+   "repository": "android_device_sony_msm8226-common",
+   "target_path": "device/sony/msm8226-common"
+ },
+  {
+    "repository": "android_device_sony_qcom-common",
+    "target_path": "device/sony/qcom-common"
+  },
+  {
+    "remote": "github",
+    "account": "CyanogenMod",
+    "repository": "android_device_sony_common",
+    "target_path": "device/sony/common"
+  },
+  {
+    "remote": "github",
+    "account": "CyanogenMod",
+    "repository": "android_device_qcom_common",
+    "target_path": "device/qcom/common"
+  },
+  {
+    "remote": "github",
+    "account": "CyanogenMod",
+    "repository": "android_hardware_sony_DASH",
+    "target_path": "hardware/sony/DASH"
+  },
+  {
+    "remote": "github",
+    "account": "CyanogenMod",
+    "repository": "android_hardware_qcom_fm",
+    "target_path": "hardware/qcom/fm"
+  }
 ]
