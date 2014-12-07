@@ -6,7 +6,7 @@
  {
    "repository": "android_kernel_sony_eagle",
    "target_path": "kernel/sony/eagle",
-   "branch": "cas-5.0"
+   "branch": "luuk-4.4"
  }, {
    "repository": "proprietary_vendor_sony",
    "target_path": "vendor/sony",
