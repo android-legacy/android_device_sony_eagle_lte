@@ -6,7 +6,7 @@
 {
    "repository": "android_kernel_sony_eagle",
    "target_path": "kernel/sony/eagle",
-   "revision": "12-12"
+   "revision": "12-12a"
  },
 {
    "repository": "proprietary_vendor_sony",
