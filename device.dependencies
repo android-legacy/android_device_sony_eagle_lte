@@ -4,9 +4,9 @@
    "target_path": "device/sony/eagle"
  },
 {
-   "repository": "android_kernel_sony_eagle",
+   "repository": "android_kernel_caf_msm8x26",
    "target_path": "kernel/sony/eagle",
-   "revision": "android-4.4"
+   "revision": "kitkat"
  },
 {
    "repository": "proprietary_vendor_sony",
