@@ -41,6 +41,11 @@
    "revision": "android-5.0"
  },
  {
+   "repository": "android_hardware_qcom_camera",
+   "target_path": "hardware/sony/camera",
+   "revision": "android-4.4"
+ },
+ {
    "remote": "omnirom",
    "repository":   "android_hardware_sony_DASH",
    "target_path":  "hardware/sony/DASH",
